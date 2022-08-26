@@ -4,22 +4,30 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.recyclerview.data.CountryCovidData;
+import com.example.recyclerview.data.OnItemClickListener;
 
 import java.util.List;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.PaisViewHolder> {
     private final Context context;
     List<CountryCovidData> listaDePaises;
+    OnItemClickListener onItemClickListener;
 
     public Adapter(List<CountryCovidData> listaDePaises, Context context) {
         this.listaDePaises = listaDePaises;
         this.context = context;
+    }
+
+    public void setOnItemClickListener(OnItemClickListener onItemClickListener) {
+        this.onItemClickListener = onItemClickListener;
     }
 
     @NonNull
@@ -48,6 +56,13 @@ public class Adapter extends RecyclerView.Adapter<Adapter.PaisViewHolder> {
         public PaisViewHolder(@NonNull View itemView) {
             super(itemView);
             nome = itemView.findViewById(R.id.tv_nome_pais_item);
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    onItemClickListener.click(pais, getAdapterPosition());
+                    Toast.makeText(context, "asmdasjmndasd", Toast.LENGTH_SHORT).show();
+                }
+            });
         }
         public void inclui(CountryCovidData pais){
             this.pais = pais;

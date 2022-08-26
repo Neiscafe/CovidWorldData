@@ -20,6 +20,6 @@ public class GetCovidDataListFromJson implements GetCountryCovidDataListUseCase 
         Gson gson = new Gson();
         Type dataType = new TypeToken<List<CountryCovidData>>() { }.getType();
         List<CountryCovidData> data = gson.fromJson(jsonFileString, dataType);
-        return  data;
+        return data;
     }
 }
