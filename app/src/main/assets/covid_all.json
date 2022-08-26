@@ -1,0 +1,2176 @@
+[
+  {
+    "ActiveCasesText": "+613,399",
+    "CountryText": "World",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+625,727",
+    "NewDeathsText": "+1,361",
+    "TotalCasesText": "599,321,245",
+    "TotalDeathsText": "6,467,744",
+    "TotalRecoveredText": "573,358,577"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "USA",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "95,186,075",
+    "TotalDeathsText": "1,064,780",
+    "TotalRecoveredText": "90,410,645"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "India",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "44,314,618",
+    "TotalDeathsText": "527,253",
+    "TotalRecoveredText": "43,685,535"
+  },
+  {
+    "ActiveCasesText": "+41,182",
+    "CountryText": "France",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+20,236",
+    "NewDeathsText": "+74",
+    "TotalCasesText": "34,319,922",
+    "TotalDeathsText": "153,501",
+    "TotalRecoveredText": "33,674,613"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Brazil",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "34,245,374",
+    "TotalDeathsText": "682,276",
+    "TotalRecoveredText": "33,156,157"
+  },
+  {
+    "ActiveCasesText": "+75,200",
+    "CountryText": "Germany",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "31,771,884",
+    "TotalDeathsText": "146,383",
+    "TotalRecoveredText": "30,595,600"
+  },
+  {
+    "ActiveCasesText": "+12,061",
+    "CountryText": "UK",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "23,460,787",
+    "TotalDeathsText": "187,018",
+    "TotalRecoveredText": "23,082,528"
+  },
+  {
+    "ActiveCasesText": "+44,628",
+    "CountryText": "S. Korea",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+138,741",
+    "NewDeathsText": "+83",
+    "TotalCasesText": "22,000,037",
+    "TotalDeathsText": "25,896",
+    "TotalRecoveredText": "19,794,926"
+  },
+  {
+    "ActiveCasesText": "+43,140",
+    "CountryText": "Italy",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+24,689",
+    "NewDeathsText": "+124",
+    "TotalCasesText": "21,606,606",
+    "TotalDeathsText": "174,571",
+    "TotalRecoveredText": "20,632,612"
+  },
+  {
+    "ActiveCasesText": "+21,887",
+    "CountryText": "Russia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+37,609",
+    "NewDeathsText": "+65",
+    "TotalCasesText": "19,037,664",
+    "TotalDeathsText": "383,427",
+    "TotalRecoveredText": "18,238,128"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Turkey",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "16,671,848",
+    "TotalDeathsText": "100,400",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "+187,817",
+    "CountryText": "Japan",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+261,252",
+    "NewDeathsText": "+279",
+    "TotalCasesText": "16,423,053",
+    "TotalDeathsText": "36,234",
+    "TotalRecoveredText": "14,443,614"
+  },
+  {
+    "ActiveCasesText": "+10,347",
+    "CountryText": "Spain",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+2,821",
+    "NewDeathsText": "+74",
+    "TotalCasesText": "13,314,764",
+    "TotalDeathsText": "112,128",
+    "TotalRecoveredText": "13,009,611"
+  },
+  {
+    "ActiveCasesText": "+6,975",
+    "CountryText": "Vietnam",
+    "NewCasesText": "+2,983",
+    "NewDeathsText": "",
+    "TotalCasesText": "11,379,554",
+    "TotalDeathsText": "43,103",
+    "TotalRecoveredText": "10,056,190"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Australia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+16,949",
+    "NewDeathsText": "+72",
+    "TotalCasesText": "9,887,673",
+    "TotalDeathsText": "13,228",
+    "TotalRecoveredText": "9,671,830"
+  },
+  {
+    "ActiveCasesText": "+7,535",
+    "CountryText": "Argentina",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "9,633,732",
+    "TotalDeathsText": "129,566",
+    "TotalRecoveredText": "9,400,601"
+  },
+  {
+    "ActiveCasesText": "+4,501",
+    "CountryText": "Netherlands",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+1,435",
+    "NewDeathsText": "+9",
+    "TotalCasesText": "8,372,961",
+    "TotalDeathsText": "22,574",
+    "TotalRecoveredText": "8,274,212"
+  },
+  {
+    "ActiveCasesText": "+8,134",
+    "CountryText": "Iran",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+3,690",
+    "NewDeathsText": "+66",
+    "TotalCasesText": "7,501,534",
+    "TotalDeathsText": "143,288",
+    "TotalRecoveredText": "7,218,708"
+  },
+  {
+    "ActiveCasesText": "+10,136",
+    "CountryText": "Mexico",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+9,319",
+    "NewDeathsText": "+76",
+    "TotalCasesText": "6,958,972",
+    "TotalDeathsText": "328,947",
+    "TotalRecoveredText": "6,182,167"
+  },
+  {
+    "ActiveCasesText": "+5,028",
+    "CountryText": "Indonesia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+5,163",
+    "NewDeathsText": "+26",
+    "TotalCasesText": "6,306,686",
+    "TotalDeathsText": "157,343",
+    "TotalRecoveredText": "6,097,334"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Colombia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "6,293,130",
+    "TotalDeathsText": "141,406",
+    "TotalRecoveredText": "6,116,269"
+  },
+  {
+    "ActiveCasesText": "+8",
+    "CountryText": "Poland",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+4,819",
+    "NewDeathsText": "+34",
+    "TotalCasesText": "6,138,093",
+    "TotalDeathsText": "116,860",
+    "TotalRecoveredText": "5,335,941"
+  },
+  {
+    "ActiveCasesText": "+4,276",
+    "CountryText": "Portugal",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+2,989",
+    "NewDeathsText": "+8",
+    "TotalCasesText": "5,391,747",
+    "TotalDeathsText": "24,772",
+    "TotalRecoveredText": "5,287,131"
+  },
+  {
+    "ActiveCasesText": "+298",
+    "CountryText": "Ukraine",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "5,030,389",
+    "TotalDeathsText": "108,743",
+    "TotalRecoveredText": "4,914,967"
+  },
+  {
+    "ActiveCasesText": "+21,461",
+    "CountryText": "Taiwan",
+    "NewCasesText": "+22,819",
+    "NewDeathsText": "+32",
+    "TotalCasesText": "4,998,765",
+    "TotalDeathsText": "9,572",
+    "TotalRecoveredText": "4,557,576"
+  },
+  {
+    "ActiveCasesText": "+5,872",
+    "CountryText": "Austria",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+6,131",
+    "NewDeathsText": "+16",
+    "TotalCasesText": "4,852,013",
+    "TotalDeathsText": "19,322",
+    "TotalRecoveredText": "4,760,237"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "DPRK",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,772,813",
+    "TotalDeathsText": "74",
+    "TotalRecoveredText": "4,772,739"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Malaysia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,749,000",
+    "TotalDeathsText": "36,124",
+    "TotalRecoveredText": "4,670,400"
+  },
+  {
+    "ActiveCasesText": "+14,723",
+    "CountryText": "Greece",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,654,737",
+    "TotalDeathsText": "32,028",
+    "TotalRecoveredText": "4,530,924"
+  },
+  {
+    "ActiveCasesText": "+2,028",
+    "CountryText": "Thailand",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+2,110",
+    "NewDeathsText": "+27",
+    "TotalCasesText": "4,630,310",
+    "TotalDeathsText": "31,974",
+    "TotalRecoveredText": "4,578,291"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Israel",
+    "NewCasesText": "+809",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,621,445",
+    "TotalDeathsText": "11,525",
+    "TotalRecoveredText": "4,590,719"
+  },
+  {
+    "ActiveCasesText": "+4,240",
+    "CountryText": "Belgium",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,466,095",
+    "TotalDeathsText": "32,436",
+    "TotalRecoveredText": "4,344,681"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Chile",
+    "NewCasesText": "+11,942",
+    "NewDeathsText": "+92",
+    "TotalCasesText": "4,421,815",
+    "TotalDeathsText": "60,135",
+    "TotalRecoveredText": "4,314,503"
+  },
+  {
+    "ActiveCasesText": "+2,254",
+    "CountryText": "Canada",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,109,931",
+    "TotalDeathsText": "43,178",
+    "TotalRecoveredText": "3,977,808"
+  },
+  {
+    "ActiveCasesText": "+9,947",
+    "CountryText": "Peru",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,055,454",
+    "TotalDeathsText": "215,209",
+    "TotalRecoveredText": "3,746,354"
+  },
+  {
+    "ActiveCasesText": "+3,398",
+    "CountryText": "Czechia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+1,900",
+    "NewDeathsText": "+7",
+    "TotalCasesText": "4,022,267",
+    "TotalDeathsText": "40,700",
+    "TotalRecoveredText": "3,964,018"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "South Africa",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,009,243",
+    "TotalDeathsText": "101,982",
+    "TotalRecoveredText": "3,897,607"
+  },
+  {
+    "ActiveCasesText": "+9,589",
+    "CountryText": "Switzerland",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "3,993,681",
+    "TotalDeathsText": "14,121",
+    "TotalRecoveredText": "3,882,640"
+  },
+  {
+    "ActiveCasesText": "+2,591",
+    "CountryText": "Philippines",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+3,748",
+    "NewDeathsText": "+40",
+    "TotalCasesText": "3,848,449",
+    "TotalDeathsText": "61,261",
+    "TotalRecoveredText": "3,749,963"
+  },
+  {
+    "ActiveCasesText": "+8,591",
+    "CountryText": "Romania",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+4,854",
+    "NewDeathsText": "+19",
+    "TotalCasesText": "3,181,065",
+    "TotalDeathsText": "66,462",
+    "TotalRecoveredText": "3,031,825"
+  },
+  {
+    "ActiveCasesText": "+1,014",
+    "CountryText": "Denmark",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+784",
+    "NewDeathsText": "+10",
+    "TotalCasesText": "3,083,891",
+    "TotalDeathsText": "6,846",
+    "TotalRecoveredText": "3,061,319"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Sweden",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "2,558,943",
+    "TotalDeathsText": "19,651",
+    "TotalRecoveredText": "2,513,218"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Iraq",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "2,454,213",
+    "TotalDeathsText": "25,338",
+    "TotalRecoveredText": "2,420,666"
+  },
+  {
+    "ActiveCasesText": "+5,979",
+    "CountryText": "Serbia",
+    "NewCasesText": "+5,206",
+    "NewDeathsText": "+6",
+    "TotalCasesText": "2,236,301",
+    "TotalDeathsText": "16,509",
+    "TotalRecoveredText": "2,112,513"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Hungary",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "2,021,648",
+    "TotalDeathsText": "47,083",
+    "TotalRecoveredText": "1,924,022"
+  },
+  {
+    "ActiveCasesText": "+273",
+    "CountryText": "Bangladesh",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+93",
+    "NewDeathsText": "",
+    "TotalCasesText": "2,009,697",
+    "TotalDeathsText": "29,315",
+    "TotalRecoveredText": "1,953,111"
+  },
+  {
+    "ActiveCasesText": "+942",
+    "CountryText": "Slovakia",
+    "NewCasesText": "+497",
+    "NewDeathsText": "+7",
+    "TotalCasesText": "1,830,206",
+    "TotalDeathsText": "20,329",
+    "TotalRecoveredText": "1,801,586"
+  },
+  {
+    "ActiveCasesText": "+5,423",
+    "CountryText": "Singapore",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+3,004",
+    "NewDeathsText": "+4",
+    "TotalCasesText": "1,812,255",
+    "TotalDeathsText": "1,576",
+    "TotalRecoveredText": "1,729,613"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Jordan",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,720,778",
+    "TotalDeathsText": "14,090",
+    "TotalRecoveredText": "1,701,987"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Georgia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,710,749",
+    "TotalDeathsText": "16,877",
+    "TotalRecoveredText": "1,637,293"
+  },
+  {
+    "ActiveCasesText": "+4,319",
+    "CountryText": "New Zealand",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+3,944",
+    "NewDeathsText": "+15",
+    "TotalCasesText": "1,709,541",
+    "TotalDeathsText": "2,575",
+    "TotalRecoveredText": "1,679,539"
+  },
+  {
+    "ActiveCasesText": "+1,278",
+    "CountryText": "Ireland",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,653,576",
+    "TotalDeathsText": "7,742",
+    "TotalRecoveredText": "1,631,524"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Pakistan",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+510",
+    "NewDeathsText": "+4",
+    "TotalCasesText": "1,565,319",
+    "TotalDeathsText": "30,548",
+    "TotalRecoveredText": "1,521,803"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Norway",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,458,751",
+    "TotalDeathsText": "3,890",
+    "TotalRecoveredText": "1,452,378"
+  },
+  {
+    "ActiveCasesText": "+3,669",
+    "CountryText": "Hong Kong",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+6,445",
+    "NewDeathsText": "+8",
+    "TotalCasesText": "1,445,336",
+    "TotalDeathsText": "9,597",
+    "TotalRecoveredText": "1,273,925"
+  },
+  {
+    "ActiveCasesText": "+1,338",
+    "CountryText": "Kazakhstan",
+    "NewCasesText": "+951",
+    "NewDeathsText": "+2",
+    "TotalCasesText": "1,381,911",
+    "TotalDeathsText": "13,675",
+    "TotalRecoveredText": "1,347,027"
+  },
+  {
+    "ActiveCasesText": "+152",
+    "CountryText": "Morocco",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "+86",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,263,865",
+    "TotalDeathsText": "16,269",
+    "TotalRecoveredText": "1,246,847"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Finland",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,250,557",
+    "TotalDeathsText": "5,467",
+    "TotalRecoveredText": "1,195,578"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Bulgaria",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,231,909",
+    "TotalDeathsText": "37,527",
+    "TotalRecoveredText": "1,177,747"
+  },
+  {
+    "ActiveCasesText": "+1,469",
+    "CountryText": "Croatia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+1,025",
+    "NewDeathsText": "+7",
+    "TotalCasesText": "1,204,642",
+    "TotalDeathsText": "16,552",
+    "TotalRecoveredText": "1,181,264"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Lebanon",
+    "NewCasesText": "+1,161",
+    "NewDeathsText": "+3",
+    "TotalCasesText": "1,202,481",
+    "TotalDeathsText": "10,596",
+    "TotalRecoveredText": "1,087,587"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Tunisia",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,141,487",
+    "TotalDeathsText": "29,206",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "+1,460",
+    "CountryText": "Slovenia",
+    "NewCasesText": "+1,513",
+    "NewDeathsText": "+2",
+    "TotalCasesText": "1,110,255",
+    "TotalDeathsText": "6,755",
+    "TotalRecoveredText": "1,084,775"
+  },
+  {
+    "ActiveCasesText": "+109",
+    "CountryText": "Cuba",
+    "NewCasesText": "+85",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,109,837",
+    "TotalDeathsText": "8,529",
+    "TotalRecoveredText": "1,100,905"
+  },
+  {
+    "ActiveCasesText": "+1,054",
+    "CountryText": "Lithuania",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+1,105",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "1,102,768",
+    "TotalDeathsText": "9,254",
+    "TotalRecoveredText": "1,066,489"
+  },
+  {
+    "ActiveCasesText": "+2,934",
+    "CountryText": "Bolivia",
+    "NewCasesText": "+1,706",
+    "NewDeathsText": "+9",
+    "TotalCasesText": "1,089,997",
+    "TotalDeathsText": "22,164",
+    "TotalRecoveredText": "1,007,265"
+  },
+  {
+    "ActiveCasesText": "+3,633",
+    "CountryText": "Guatemala",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+2,213",
+    "NewDeathsText": "+37",
+    "TotalCasesText": "1,082,925",
+    "TotalDeathsText": "19,309",
+    "TotalRecoveredText": "1,045,942"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Costa Rica",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,030,000",
+    "TotalDeathsText": "8,780",
+    "TotalRecoveredText": "860,711"
+  },
+  {
+    "ActiveCasesText": "+659",
+    "CountryText": "UAE",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+693",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,008,435",
+    "TotalDeathsText": "2,341",
+    "TotalRecoveredText": "986,761"
+  },
+  {
+    "ActiveCasesText": "+487",
+    "CountryText": "Nepal",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+246",
+    "NewDeathsText": "",
+    "TotalCasesText": "994,859",
+    "TotalDeathsText": "11,990",
+    "TotalRecoveredText": "977,845"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Belarus",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "994,037",
+    "TotalDeathsText": "7,118",
+    "TotalRecoveredText": "985,592"
+  },
+  {
+    "ActiveCasesText": "+3,228",
+    "CountryText": "Ecuador",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "+1,068",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "987,570",
+    "TotalDeathsText": "35,812",
+    "TotalRecoveredText": "942,651"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Uruguay",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "975,264",
+    "TotalDeathsText": "7,429",
+    "TotalRecoveredText": "966,171"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Mongolia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "973,272",
+    "TotalDeathsText": "2,179",
+    "TotalRecoveredText": "949,556"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Panama",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "966,779",
+    "TotalDeathsText": "8,444",
+    "TotalRecoveredText": "949,784"
+  },
+  {
+    "ActiveCasesText": "+1,604",
+    "CountryText": "Latvia",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+1,144",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "889,636",
+    "TotalDeathsText": "5,920",
+    "TotalRecoveredText": "865,280"
+  },
+  {
+    "ActiveCasesText": "+119",
+    "CountryText": "Saudi Arabia",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+89",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "812,486",
+    "TotalDeathsText": "9,274",
+    "TotalRecoveredText": "799,473"
+  },
+  {
+    "ActiveCasesText": "+478",
+    "CountryText": "Azerbaijan",
+    "NewCasesText": "+499",
+    "NewDeathsText": "",
+    "TotalCasesText": "807,516",
+    "TotalDeathsText": "9,784",
+    "TotalRecoveredText": "794,225"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Paraguay",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "712,907",
+    "TotalDeathsText": "19,357",
+    "TotalRecoveredText": "689,284"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Bahrain",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "668,846",
+    "TotalDeathsText": "1,513",
+    "TotalRecoveredText": "662,922"
+  },
+  {
+    "ActiveCasesText": "+974",
+    "CountryText": "Sri Lanka",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+164",
+    "NewDeathsText": "+6",
+    "TotalCasesText": "668,827",
+    "TotalDeathsText": "16,646",
+    "TotalRecoveredText": "651,149"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Kuwait",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "656,393",
+    "TotalDeathsText": "2,562",
+    "TotalRecoveredText": "653,046"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Dominican Republic",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "635,461",
+    "TotalDeathsText": "4,384",
+    "TotalRecoveredText": "629,525"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Palestine",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "616,364",
+    "TotalDeathsText": "5,390",
+    "TotalRecoveredText": "591,823"
+  },
+  {
+    "ActiveCasesText": "+16",
+    "CountryText": "Myanmar",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+32",
+    "NewDeathsText": "",
+    "TotalCasesText": "614,573",
+    "TotalDeathsText": "19,437",
+    "TotalRecoveredText": "593,185"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Estonia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "595,228",
+    "TotalDeathsText": "2,642",
+    "TotalRecoveredText": "524,990"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Cyprus",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "571,994",
+    "TotalDeathsText": "1,149",
+    "TotalRecoveredText": "560,781"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Moldova",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "561,196",
+    "TotalDeathsText": "11,693",
+    "TotalRecoveredText": "504,142"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Venezuela",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "540,977",
+    "TotalDeathsText": "5,784",
+    "TotalRecoveredText": "532,197"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Egypt",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "515,645",
+    "TotalDeathsText": "24,613",
+    "TotalRecoveredText": "442,182"
+  },
+  {
+    "ActiveCasesText": "+100",
+    "CountryText": "Libya",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+40",
+    "NewDeathsText": "",
+    "TotalCasesText": "506,515",
+    "TotalDeathsText": "6,436",
+    "TotalRecoveredText": "499,368"
+  },
+  {
+    "ActiveCasesText": "+31",
+    "CountryText": "Ethiopia",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "+41",
+    "NewDeathsText": "",
+    "TotalCasesText": "492,935",
+    "TotalDeathsText": "7,571",
+    "TotalRecoveredText": "471,268"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Réunion",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "450,430",
+    "TotalDeathsText": "855",
+    "TotalRecoveredText": "418,572"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Honduras",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "449,495",
+    "TotalDeathsText": "10,958",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Armenia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "430,361",
+    "TotalDeathsText": "8,643",
+    "TotalRecoveredText": "412,661"
+  },
+  {
+    "ActiveCasesText": "+624",
+    "CountryText": "Qatar",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+556",
+    "NewDeathsText": "",
+    "TotalCasesText": "422,686",
+    "TotalDeathsText": "681",
+    "TotalRecoveredText": "416,700"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Oman",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "397,231",
+    "TotalDeathsText": "4,260",
+    "TotalRecoveredText": "384,669"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Bosnia and Herzegovina",
+    "NewCasesText": "+522",
+    "NewDeathsText": "+7",
+    "TotalCasesText": "393,235",
+    "TotalDeathsText": "15,980",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "+10",
+    "CountryText": "Kenya",
+    "LastUpdate": "2022-08-19 21:10",
+    "NewCasesText": "+13",
+    "NewDeathsText": "",
+    "TotalCasesText": "338,022",
+    "TotalDeathsText": "5,673",
+    "TotalRecoveredText": "332,211"
+  },
+  {
+    "ActiveCasesText": "+513",
+    "CountryText": "North Macedonia",
+    "NewCasesText": "+473",
+    "NewDeathsText": "+3",
+    "TotalCasesText": "337,513",
+    "TotalDeathsText": "9,440",
+    "TotalRecoveredText": "324,633"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Zambia",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "332,264",
+    "TotalDeathsText": "4,016",
+    "TotalRecoveredText": "327,359"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Botswana",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "325,850",
+    "TotalDeathsText": "2,777",
+    "TotalRecoveredText": "322,955"
+  },
+  {
+    "ActiveCasesText": "+521",
+    "CountryText": "Albania",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+1,412",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "325,241",
+    "TotalDeathsText": "3,575",
+    "TotalRecoveredText": "316,796"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Luxembourg",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "284,931",
+    "TotalDeathsText": "1,114",
+    "TotalRecoveredText": "275,850"
+  },
+  {
+    "ActiveCasesText": "+642",
+    "CountryText": "Montenegro",
+    "NewCasesText": "+447",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "272,180",
+    "TotalDeathsText": "2,765",
+    "TotalRecoveredText": "264,856"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Algeria",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "269,556",
+    "TotalDeathsText": "6,878",
+    "TotalRecoveredText": "181,167"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Nigeria",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "262,748",
+    "TotalDeathsText": "3,147",
+    "TotalRecoveredText": "256,518"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Zimbabwe",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "256,579",
+    "TotalDeathsText": "5,589",
+    "TotalRecoveredText": "250,813"
+  },
+  {
+    "ActiveCasesText": "+56",
+    "CountryText": "Uzbekistan",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+15",
+    "NewDeathsText": "",
+    "TotalCasesText": "243,638",
+    "TotalDeathsText": "1,637",
+    "TotalRecoveredText": "241,387"
+  },
+  {
+    "ActiveCasesText": "+255",
+    "CountryText": "China",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+603",
+    "NewDeathsText": "",
+    "TotalCasesText": "238,183",
+    "TotalDeathsText": "5,226",
+    "TotalRecoveredText": "225,197"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Mozambique",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "229,932",
+    "TotalDeathsText": "2,219",
+    "TotalRecoveredText": "227,503"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Martinique",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "217,007",
+    "TotalDeathsText": "1,029",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Brunei",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "215,283",
+    "TotalDeathsText": "225",
+    "TotalRecoveredText": "214,639"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Laos",
+    "NewCasesText": "+152",
+    "NewDeathsText": "",
+    "TotalCasesText": "213,072",
+    "TotalDeathsText": "757",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Kyrgyzstan",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "205,198",
+    "TotalDeathsText": "2,991",
+    "TotalRecoveredText": "196,406"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Iceland",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "203,814",
+    "TotalDeathsText": "179",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "El Salvador",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "190,818",
+    "TotalDeathsText": "4,217",
+    "TotalRecoveredText": "172,310"
+  },
+  {
+    "ActiveCasesText": "+14",
+    "CountryText": "Afghanistan",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "+96",
+    "NewDeathsText": "",
+    "TotalCasesText": "190,254",
+    "TotalDeathsText": "7,759",
+    "TotalRecoveredText": "170,017"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Guadeloupe",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "190,054",
+    "TotalDeathsText": "978",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Maldives",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "184,689",
+    "TotalDeathsText": "307",
+    "TotalRecoveredText": "163,687"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Trinidad and Tobago",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "176,107",
+    "TotalDeathsText": "4,089",
+    "TotalRecoveredText": "164,967"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Uganda",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "169,396",
+    "TotalDeathsText": "3,628",
+    "TotalRecoveredText": "100,431"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Namibia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "169,253",
+    "TotalDeathsText": "4,065",
+    "TotalRecoveredText": "164,813"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Ghana",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "168,457",
+    "TotalDeathsText": "1,459",
+    "TotalRecoveredText": "166,872"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Jamaica",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "148,450",
+    "TotalDeathsText": "3,230",
+    "TotalRecoveredText": "95,401"
+  },
+  {
+    "ActiveCasesText": "+40",
+    "CountryText": "Cambodia",
+    "NewCasesText": "+28",
+    "NewDeathsText": "",
+    "TotalCasesText": "137,377",
+    "TotalDeathsText": "3,056",
+    "TotalRecoveredText": "134,092"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Rwanda",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "132,376",
+    "TotalDeathsText": "1,466",
+    "TotalRecoveredText": "130,803"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Cameroon",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "120,967",
+    "TotalDeathsText": "1,933",
+    "TotalRecoveredText": "118,459"
+  },
+  {
+    "ActiveCasesText": "+85",
+    "CountryText": "Malta",
+    "NewCasesText": "+28",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "113,721",
+    "TotalDeathsText": "799",
+    "TotalRecoveredText": "112,215"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Angola",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "102,636",
+    "TotalDeathsText": "1,917",
+    "TotalRecoveredText": "100,437"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Barbados",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "98,958",
+    "TotalDeathsText": "529",
+    "TotalRecoveredText": "95,031"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "French Guiana",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "93,420",
+    "TotalDeathsText": "408",
+    "TotalRecoveredText": "11,254"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "DRC",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "92,543",
+    "TotalDeathsText": "1,393",
+    "TotalRecoveredText": "83,297"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Channel Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "89,252",
+    "TotalDeathsText": "197",
+    "TotalRecoveredText": "88,615"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Senegal",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "87,835",
+    "TotalDeathsText": "1,968",
+    "TotalRecoveredText": "85,683"
+  },
+  {
+    "ActiveCasesText": "+45",
+    "CountryText": "Malawi",
+    "NewCasesText": "+8",
+    "NewDeathsText": "",
+    "TotalCasesText": "87,771",
+    "TotalDeathsText": "2,675",
+    "TotalRecoveredText": "84,435"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Ivory Coast",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "86,301",
+    "TotalDeathsText": "817",
+    "TotalRecoveredText": "85,293"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Suriname",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "81,007",
+    "TotalDeathsText": "1,382",
+    "TotalRecoveredText": "49,602"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "French Polynesia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "76,252",
+    "TotalDeathsText": "649",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "+4",
+    "CountryText": "Eswatini",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "+2",
+    "NewDeathsText": "",
+    "TotalCasesText": "73,344",
+    "TotalDeathsText": "1,419",
+    "TotalRecoveredText": "71,892"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "New Caledonia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "72,980",
+    "TotalDeathsText": "314",
+    "TotalRecoveredText": "71,472"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Guyana",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "70,744",
+    "TotalDeathsText": "1,278",
+    "TotalRecoveredText": "69,011"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Fiji",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "68,028",
+    "TotalDeathsText": "875",
+    "TotalRecoveredText": "66,042"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Belize",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "67,891",
+    "TotalDeathsText": "680",
+    "TotalRecoveredText": "66,964"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Madagascar",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "66,599",
+    "TotalDeathsText": "1,410",
+    "TotalRecoveredText": "64,996"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Sudan",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "63,147",
+    "TotalDeathsText": "4,961",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Mauritania",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "62,726",
+    "TotalDeathsText": "992",
+    "TotalRecoveredText": "61,651"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Cabo Verde",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "62,266",
+    "TotalDeathsText": "410",
+    "TotalRecoveredText": "61,779"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Bhutan",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "60,779",
+    "TotalDeathsText": "21",
+    "TotalRecoveredText": "60,699"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Syria",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "56,819",
+    "TotalDeathsText": "3,160",
+    "TotalRecoveredText": "53,029"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Gabon",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "48,592",
+    "TotalDeathsText": "306",
+    "TotalRecoveredText": "47,803"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Burundi",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "48,548",
+    "TotalDeathsText": "38",
+    "TotalRecoveredText": "45,547"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Andorra",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "45,975",
+    "TotalDeathsText": "154",
+    "TotalRecoveredText": "45,695"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Seychelles",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "45,852",
+    "TotalDeathsText": "168",
+    "TotalRecoveredText": "45,516"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Curaçao",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "45,127",
+    "TotalDeathsText": "282",
+    "TotalRecoveredText": "44,720"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Papua New Guinea",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "44,846",
+    "TotalDeathsText": "664",
+    "TotalRecoveredText": "43,982"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Aruba",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "42,572",
+    "TotalDeathsText": "226",
+    "TotalRecoveredText": "42,056"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Mayotte",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "39,986",
+    "TotalDeathsText": "187",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Mauritius",
+    "LastUpdate": "2022-08-19 20:09",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "39,931",
+    "TotalDeathsText": "1,019",
+    "TotalRecoveredText": "38,124"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Tanzania",
+    "LastUpdate": "2022-08-19 18:08",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "38,454",
+    "TotalDeathsText": "841",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Togo",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "38,337",
+    "TotalDeathsText": "281",
+    "TotalRecoveredText": "38,022"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Isle of Man",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "37,794",
+    "TotalDeathsText": "114",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Guinea",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "37,470",
+    "TotalDeathsText": "447",
+    "TotalRecoveredText": "36,763"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Bahamas",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "36,958",
+    "TotalDeathsText": "823",
+    "TotalRecoveredText": "35,709"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Faeroe Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "34,658",
+    "TotalDeathsText": "28",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Lesotho",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "34,206",
+    "TotalDeathsText": "704",
+    "TotalRecoveredText": "25,740"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Haiti",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "32,703",
+    "TotalDeathsText": "838",
+    "TotalRecoveredText": "30,148"
+  },
+  {
+    "ActiveCasesText": "+6",
+    "CountryText": "Mali",
+    "NewCasesText": "+2",
+    "NewDeathsText": "",
+    "TotalCasesText": "31,257",
+    "TotalDeathsText": "739",
+    "TotalRecoveredText": "30,434"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Cayman Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "29,907",
+    "TotalDeathsText": "29",
+    "TotalRecoveredText": "8,553"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Saint Lucia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "28,461",
+    "TotalDeathsText": "388",
+    "TotalRecoveredText": "27,929"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Benin",
+    "LastUpdate": "2022-08-19 19:10",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "27,316",
+    "TotalDeathsText": "163",
+    "TotalRecoveredText": "27,112"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Somalia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "27,020",
+    "TotalDeathsText": "1,350",
+    "TotalRecoveredText": "13,182"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Congo",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "24,837",
+    "TotalDeathsText": "386",
+    "TotalRecoveredText": "24,006"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Timor-Leste",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "23,036",
+    "TotalDeathsText": "134",
+    "TotalRecoveredText": "22,855"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Solomon Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "21,544",
+    "TotalDeathsText": "153",
+    "TotalRecoveredText": "16,357"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Burkina Faso",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "21,128",
+    "TotalDeathsText": "387",
+    "TotalRecoveredText": "20,632"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "San Marino",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "20,215",
+    "TotalDeathsText": "118",
+    "TotalRecoveredText": "19,976"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Gibraltar",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "20,049",
+    "TotalDeathsText": "107",
+    "TotalRecoveredText": "16,579"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Grenada",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "19,113",
+    "TotalDeathsText": "234",
+    "TotalRecoveredText": "18,611"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Liechtenstein",
+    "NewCasesText": "+17",
+    "NewDeathsText": "",
+    "TotalCasesText": "18,985",
+    "TotalDeathsText": "86",
+    "TotalRecoveredText": "18,792"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Nicaragua",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "18,491",
+    "TotalDeathsText": "225",
+    "TotalRecoveredText": "4,225"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "South Sudan",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "17,823",
+    "TotalDeathsText": "138",
+    "TotalRecoveredText": "17,335"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Tajikistan",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "17,786",
+    "TotalDeathsText": "125",
+    "TotalRecoveredText": "17,264"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Bermuda",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "17,674",
+    "TotalDeathsText": "148",
+    "TotalRecoveredText": "17,382"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Equatorial Guinea",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "16,914",
+    "TotalDeathsText": "183",
+    "TotalRecoveredText": "16,553"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Djibouti",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "15,690",
+    "TotalDeathsText": "189",
+    "TotalRecoveredText": "15,427"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Samoa",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "15,405",
+    "TotalDeathsText": "29",
+    "TotalRecoveredText": "1,605"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Dominica",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "14,852",
+    "TotalDeathsText": "68",
+    "TotalRecoveredText": "14,554"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "CAR",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "14,803",
+    "TotalDeathsText": "113",
+    "TotalRecoveredText": "14,520"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Monaco",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "14,277",
+    "TotalDeathsText": "57",
+    "TotalRecoveredText": "14,112"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Tonga",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "14,135",
+    "TotalDeathsText": "12",
+    "TotalRecoveredText": "13,066"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Gambia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "12,238",
+    "TotalDeathsText": "368",
+    "TotalRecoveredText": "11,745"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Greenland",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "11,971",
+    "TotalDeathsText": "21",
+    "TotalRecoveredText": "2,761"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Yemen",
+    "NewCasesText": "+1",
+    "NewDeathsText": "+1",
+    "TotalCasesText": "11,915",
+    "TotalDeathsText": "2,153",
+    "TotalRecoveredText": "9,119"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Saint Martin",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "11,857",
+    "TotalDeathsText": "63",
+    "TotalRecoveredText": "1,399"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Vanuatu",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "11,746",
+    "TotalDeathsText": "14",
+    "TotalRecoveredText": "11,705"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Caribbean Netherlands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "11,013",
+    "TotalDeathsText": "35",
+    "TotalRecoveredText": "10,476"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Sint Maarten",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "10,809",
+    "TotalDeathsText": "87",
+    "TotalRecoveredText": "10,704"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Eritrea",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "10,146",
+    "TotalDeathsText": "103",
+    "TotalRecoveredText": "10,002"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Niger",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "9,157",
+    "TotalDeathsText": "312",
+    "TotalRecoveredText": "8,811"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Antigua and Barbuda",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "8,895",
+    "TotalDeathsText": "144",
+    "TotalRecoveredText": "8,696"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Guinea-Bissau",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "8,482",
+    "TotalDeathsText": "174",
+    "TotalRecoveredText": "8,287"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Comoros",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "8,374",
+    "TotalDeathsText": "161",
+    "TotalRecoveredText": "8,178"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Marshall Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "8,197",
+    "TotalDeathsText": "11",
+    "TotalRecoveredText": "71"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Sierra Leone",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "7,743",
+    "TotalDeathsText": "126",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Liberia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "7,656",
+    "TotalDeathsText": "294",
+    "TotalRecoveredText": "7,243"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Chad",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "7,458",
+    "TotalDeathsText": "193",
+    "TotalRecoveredText": "4,874"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Micronesia",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "7,198",
+    "TotalDeathsText": "21",
+    "TotalRecoveredText": "134"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "British Virgin Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "7,131",
+    "TotalDeathsText": "63",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "St. Vincent Grenadines",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "7,106",
+    "TotalDeathsText": "115",
+    "TotalRecoveredText": "6,641"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Saint Kitts and Nevis",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "6,493",
+    "TotalDeathsText": "46",
+    "TotalRecoveredText": "6,431"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Turks and Caicos",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "6,351",
+    "TotalDeathsText": "36",
+    "TotalRecoveredText": "6,285"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Cook Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "6,265",
+    "TotalDeathsText": "1",
+    "TotalRecoveredText": "6,176"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Sao Tome and Principe",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "6,123",
+    "TotalDeathsText": "76",
+    "TotalRecoveredText": "6,043"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Palau",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "5,308",
+    "TotalDeathsText": "6",
+    "TotalRecoveredText": "5,238"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "St. Barth",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "5,208",
+    "TotalDeathsText": "6",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Nauru",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "4,609",
+    "TotalDeathsText": "1",
+    "TotalRecoveredText": "4,603"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Anguilla",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "3,746",
+    "TotalDeathsText": "10",
+    "TotalRecoveredText": "3,680"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Kiribati",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "3,430",
+    "TotalDeathsText": "13",
+    "TotalRecoveredText": "2,703"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Saint Pierre Miquelon",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "3,131",
+    "TotalDeathsText": "1",
+    "TotalRecoveredText": "2,449"
+  },
+  {
+    "ActiveCasesText": "N/A",
+    "CountryText": "Falkland Islands",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,867",
+    "TotalDeathsText": "",
+    "TotalRecoveredText": "N/A"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Montserrat",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "1,106",
+    "TotalDeathsText": "8",
+    "TotalRecoveredText": "1,067"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Macao",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "793",
+    "TotalDeathsText": "6",
+    "TotalRecoveredText": "785"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Wallis and Futuna",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "761",
+    "TotalDeathsText": "7",
+    "TotalRecoveredText": "438"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Diamond Princess",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "712",
+    "TotalDeathsText": "13",
+    "TotalRecoveredText": "699"
+  },
+  {
+    "ActiveCasesText": "+1",
+    "CountryText": "Niue",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "60",
+    "TotalDeathsText": "",
+    "TotalRecoveredText": "60"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Vatican City",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "29",
+    "TotalDeathsText": "",
+    "TotalRecoveredText": "29"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Western Sahara",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "10",
+    "TotalDeathsText": "1",
+    "TotalRecoveredText": "9"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "MS Zaandam",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "9",
+    "TotalDeathsText": "2",
+    "TotalRecoveredText": "7"
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Tuvalu",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "8",
+    "TotalDeathsText": "",
+    "TotalRecoveredText": ""
+  },
+  {
+    "ActiveCasesText": "",
+    "CountryText": "Saint Helena",
+    "NewCasesText": "",
+    "NewDeathsText": "",
+    "TotalCasesText": "2",
+    "TotalDeathsText": "",
+    "TotalRecoveredText": "2"
+  }
+]
