@@ -29,7 +29,7 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 tools:text="asdasdsad"
-                android:textSize="30sp"
+                android:textSize="35sp"
                 android:padding="10dp"
                 android:background="@color/teal_700"
                 android:textStyle="bold"
