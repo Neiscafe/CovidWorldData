@@ -4,9 +4,7 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -48,7 +46,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.PaisViewHolder> {
         return listaDePaises.size();
     }
 
-    class PaisViewHolder extends RecyclerView.ViewHolder{
+    class PaisViewHolder extends RecyclerView.ViewHolder {
 
         private final TextView nome;
         private CountryCovidData pais;
@@ -63,7 +61,8 @@ public class Adapter extends RecyclerView.Adapter<Adapter.PaisViewHolder> {
                 }
             });
         }
-        public void inclui(CountryCovidData pais){
+
+        public void inclui(CountryCovidData pais) {
             this.pais = pais;
             nome.setText(pais.getCountryText());
         }

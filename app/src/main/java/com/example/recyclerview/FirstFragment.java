@@ -26,7 +26,6 @@ public class FirstFragment extends Fragment {
     private FragmentFirstBinding binding;
     private Adapter adapter;
     List<CountryCovidData> pegaDados;
-    private OnItemClickListener onItemClickListener;
 
 
     @Override
@@ -34,6 +33,7 @@ public class FirstFragment extends Fragment {
             LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState
     ) {
+
         RecyclerView listaRecyclerView = realizaBinds(inflater, container);
         criaLista(listaRecyclerView);
 
@@ -64,7 +64,8 @@ public class FirstFragment extends Fragment {
         listaRecyclerView.setAdapter(adapter);
         adapter.setOnItemClickListener(new OnItemClickListener() {
             @Override
-            public void click(CountryCovidData pais, int i) {;
+            public void click(CountryCovidData pais, int i) {
+                ;
                 Fragment fragment = new SecondFragment();
                 Bundle bundle = new Bundle();
                 CountryCovidData dados = pegaDados.get(i);

@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:textSize="20dp"
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,7 +21,7 @@
         app:layout_constraintVertical_bias="0.17000002" />
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_ultima_atualizacao"
         android:layout_width="wrap_content"
@@ -32,7 +32,7 @@
         android:textAlignment="center"/>
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_casos_ativos"
         android:layout_width="wrap_content"
@@ -43,7 +43,7 @@
         android:textAlignment="center"/>
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_novos_casos"
         android:layout_width="wrap_content"
@@ -54,7 +54,7 @@
         android:textAlignment="center"/>
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_novas_mortes"
         android:layout_width="wrap_content"
@@ -65,7 +65,7 @@
         android:textAlignment="center"/>
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_casos_totais"
         android:layout_width="wrap_content"
@@ -76,7 +76,7 @@
         android:textAlignment="center"/>
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_mortes_totais"
         android:layout_width="wrap_content"
@@ -87,7 +87,7 @@
         android:textAlignment="center"/>
 
     <TextView
-        android:layout_margin="5dp"
+        android:layout_margin="14dp"
         android:textSize="20dp"
         android:id="@+id/textview_second_recuperados_totais"
         android:layout_width="wrap_content"
