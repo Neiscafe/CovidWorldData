@@ -10,28 +10,100 @@
         android:id="@+id/textview_second_nome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintBottom_toTopOf="@id/button_second"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:text="nome" />
+        app:layout_constraintVertical_bias="0.17000002" />
+
     <TextView
-        android:id="@+id/textview_second_data"
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_ultima_atualizacao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintBottom_toTopOf="@id/button_second"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:text="nome" />
+        app:layout_constraintTop_toBottomOf="@id/textview_second_nome"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_casos_ativos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second_ultima_atualizacao"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_novos_casos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second_casos_ativos"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_novas_mortes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second_novos_casos"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_casos_totais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second_novas_mortes"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_mortes_totais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second_casos_totais"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:id="@+id/textview_second_recuperados_totais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second_mortes_totais"
+        android:textAlignment="center"/>
 
     <Button
         android:id="@+id/button_second"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/previous"
+        android:text="retornar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/textview_second_data" />
+        app:layout_constraintTop_toBottomOf="@id/textview_second_recuperados_totais" />
 </androidx.constraintlayout.widget.ConstraintLayout>

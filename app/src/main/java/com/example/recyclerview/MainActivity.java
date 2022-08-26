@@ -11,6 +11,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import com.example.recyclerview.data.GetCovidDataListFromJson;
 import com.example.recyclerview.databinding.ActivityMainBinding;
 import com.google.android.material.snackbar.Snackbar;
 
@@ -34,21 +35,6 @@ public class MainActivity extends AppCompatActivity {
         //instancia um appBarConfiguration para colocar no navController
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         //implementa o appBarConfiguration e o nav
-
-        binding.fab.setOnClickListener(new View.OnClickListener() { //Listener do Floating Action Button
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) { //instancia o menu, que fica na action bar
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
     }
 
     @Override

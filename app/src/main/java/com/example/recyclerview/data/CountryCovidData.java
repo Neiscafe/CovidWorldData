@@ -10,6 +10,7 @@ public class CountryCovidData implements Serializable {
     String TotalCasesText;
     String TotalDeathsText;
     String TotalRecoveredText;
+    String LastUpdate;
 
     public CountryCovidData(String ActiveCasesText,
                             String CountryText,
@@ -17,7 +18,8 @@ public class CountryCovidData implements Serializable {
                             String NewDeathsText,
                             String TotalCasesText,
                             String TotalDeathsText,
-                            String TotalRecoveredText) {
+                            String TotalRecoveredText,
+                            String LastUpdate) {
         this.ActiveCasesText = ActiveCasesText;
         this.CountryText = CountryText;
         this.NewCasesText = NewCasesText;
@@ -25,6 +27,7 @@ public class CountryCovidData implements Serializable {
         this.TotalCasesText = TotalCasesText;
         this.TotalDeathsText = TotalDeathsText;
         this.TotalRecoveredText = TotalRecoveredText;
+        this.LastUpdate = LastUpdate;
     }
 
     @Override
@@ -59,4 +62,6 @@ public class CountryCovidData implements Serializable {
     public String getTotalRecoveredText() {
         return TotalRecoveredText;
     }
+
+    public String getLastUpdate(){return LastUpdate;}
 }

@@ -60,7 +60,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.PaisViewHolder> {
                 @Override
                 public void onClick(View view) {
                     onItemClickListener.click(pais, getAdapterPosition());
-                    Toast.makeText(context, "asmdasjmndasd", Toast.LENGTH_SHORT).show();
                 }
             });
         }
