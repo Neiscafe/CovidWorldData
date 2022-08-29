@@ -100,14 +100,14 @@
     "TotalRecoveredText": "18,238,128"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Turkey",
     "LastUpdate": "2022-08-19 20:09",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "16,671,848",
     "TotalDeathsText": "100,400",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "+187,817",
@@ -598,14 +598,14 @@
     "TotalRecoveredText": "1,087,587"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Tunisia",
     "LastUpdate": "2022-08-19 18:08",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "1,141,487",
     "TotalDeathsText": "29,206",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "+1,460",
@@ -904,14 +904,14 @@
     "TotalRecoveredText": "418,572"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Honduras",
     "LastUpdate": "2022-08-19 19:10",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "449,495",
     "TotalDeathsText": "10,958",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -943,13 +943,13 @@
     "TotalRecoveredText": "384,669"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Bosnia and Herzegovina",
     "NewCasesText": "+522",
     "NewDeathsText": "+7",
     "TotalCasesText": "393,235",
     "TotalDeathsText": "15,980",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "+10",
@@ -1078,13 +1078,13 @@
     "TotalRecoveredText": "227,503"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Martinique",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "217,007",
     "TotalDeathsText": "1,029",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1096,13 +1096,13 @@
     "TotalRecoveredText": "214,639"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Laos",
     "NewCasesText": "+152",
     "NewDeathsText": "",
     "TotalCasesText": "213,072",
     "TotalDeathsText": "757",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1115,13 +1115,13 @@
     "TotalRecoveredText": "196,406"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Iceland",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "203,814",
     "TotalDeathsText": "179",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1143,13 +1143,13 @@
     "TotalRecoveredText": "170,017"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Guadeloupe",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "190,054",
     "TotalDeathsText": "978",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1330,13 +1330,13 @@
     "TotalRecoveredText": "49,602"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "French Polynesia",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "76,252",
     "TotalDeathsText": "649",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "+4",
@@ -1395,13 +1395,13 @@
     "TotalRecoveredText": "64,996"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Sudan",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "63,147",
     "TotalDeathsText": "4,961",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1505,13 +1505,13 @@
     "TotalRecoveredText": "42,056"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Mayotte",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "39,986",
     "TotalDeathsText": "187",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1524,14 +1524,14 @@
     "TotalRecoveredText": "38,124"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Tanzania",
     "LastUpdate": "2022-08-19 18:08",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "38,454",
     "TotalDeathsText": "841",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1543,13 +1543,13 @@
     "TotalRecoveredText": "38,022"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Isle of Man",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "37,794",
     "TotalDeathsText": "114",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1570,13 +1570,13 @@
     "TotalRecoveredText": "35,709"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Faeroe Islands",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "34,658",
     "TotalDeathsText": "28",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1931,13 +1931,13 @@
     "TotalRecoveredText": "71"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Sierra Leone",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "7,743",
     "TotalDeathsText": "126",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -1967,13 +1967,13 @@
     "TotalRecoveredText": "134"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "British Virgin Islands",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "7,131",
     "TotalDeathsText": "63",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -2030,13 +2030,13 @@
     "TotalRecoveredText": "5,238"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "St. Barth",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "5,208",
     "TotalDeathsText": "6",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",
@@ -2075,13 +2075,13 @@
     "TotalRecoveredText": "2,449"
   },
   {
-    "ActiveCasesText": "N/A",
+    "ActiveCasesText": "",
     "CountryText": "Falkland Islands",
     "NewCasesText": "",
     "NewDeathsText": "",
     "TotalCasesText": "1,867",
     "TotalDeathsText": "",
-    "TotalRecoveredText": "N/A"
+    "TotalRecoveredText": ""
   },
   {
     "ActiveCasesText": "",

@@ -97,13 +97,4 @@
         app:layout_constraintTop_toBottomOf="@id/textview_second_mortes_totais"
         android:textAlignment="center"/>
 
-    <Button
-        android:id="@+id/button_second"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="retornar"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/textview_second_recuperados_totais" />
 </androidx.constraintlayout.widget.ConstraintLayout>

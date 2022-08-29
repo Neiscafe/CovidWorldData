@@ -6,9 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.navigation.fragment.NavHostFragment;
 
 import com.example.recyclerview.data.CountryCovidData;
 import com.example.recyclerview.databinding.FragmentSecondBinding;
@@ -29,6 +27,7 @@ public class SecondFragment extends Fragment {
         bundle = getArguments();
         CountryCovidData dadosEnviados = (CountryCovidData) bundle.getSerializable("nomeDoPais");
 
+
         inicializacaoDeCampos(dadosEnviados);
 
         return binding.getRoot();
@@ -36,6 +35,7 @@ public class SecondFragment extends Fragment {
     }
 
     private void inicializacaoDeCampos(CountryCovidData dadosEnviados) {
+
         TextView tvNomePais = binding.textviewSecondNome;
         TextView tvCasosAtivos = binding.textviewSecondCasosAtivos;
         TextView tvUltimaAtualizacao = binding.textviewSecondUltimaAtualizacao;
@@ -45,60 +45,47 @@ public class SecondFragment extends Fragment {
         TextView tvMortesTotais = binding.textviewSecondMortesTotais;
         TextView tvRecuperadosTotais = binding.textviewSecondRecuperadosTotais;
 
-        if (!dadosEnviados.getLastUpdate().equals("") && dadosEnviados.getLastUpdate()!=null) {
+        if (dadosEnviados.getCountryText() != null && !dadosEnviados.getCountryText().equals("")) {
             tvNomePais.setText(dadosEnviados.getCountryText());
         } else {
             binding.textviewSecondNome.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getActiveCasesText().equals("") && dadosEnviados.getActiveCasesText()!=null) {
+        if (dadosEnviados.getActiveCasesText() != null && !dadosEnviados.getActiveCasesText().equals("")) {
             tvCasosAtivos.setText("Casos ativos:\n" + dadosEnviados.getActiveCasesText());
         } else {
             binding.textviewSecondCasosAtivos.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getLastUpdate().equals("")&& dadosEnviados.getLastUpdate()!=null) {
+        if (dadosEnviados.getLastUpdate() != null && !dadosEnviados.getLastUpdate().equals("")) {
             tvUltimaAtualizacao.setText("Ultima atualização:\n" + dadosEnviados.getLastUpdate());
         } else {
             binding.textviewSecondUltimaAtualizacao.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getNewCasesText().equals("")&& dadosEnviados.getNewCasesText()!=null) {
+        if (dadosEnviados.getNewCasesText() != null && !dadosEnviados.getNewCasesText().equals("")) {
             tvNovosCasos.setText("Novos casos:\n" + dadosEnviados.getNewCasesText());
         } else {
             binding.textviewSecondNovosCasos.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getNewDeathsText().equals("")&& dadosEnviados.getNewDeathsText()!=null) {
+        if (dadosEnviados.getNewDeathsText() != null && !dadosEnviados.getNewDeathsText().equals("")) {
             tvNovasMortes.setText("Novas mortes:\n" + dadosEnviados.getNewDeathsText());
         } else {
             binding.textviewSecondNovasMortes.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getTotalCasesText().equals("")&& dadosEnviados.getTotalCasesText()!=null) {
+        if (dadosEnviados.getTotalCasesText() != null && !dadosEnviados.getTotalCasesText().equals("")) {
             tvCasosTotais.setText("Casos totais:\n" + dadosEnviados.getTotalCasesText());
         } else {
             binding.textviewSecondCasosTotais.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getTotalDeathsText().equals("")&& dadosEnviados.getTotalDeathsText()!=null) {
+        if (dadosEnviados.getTotalDeathsText() != null && !dadosEnviados.getTotalDeathsText().equals("")) {
             tvMortesTotais.setText("Mortes totais:\n" + dadosEnviados.getTotalDeathsText());
         } else {
             binding.textviewSecondMortesTotais.setVisibility(View.GONE);
         }
-        if (!dadosEnviados.getTotalRecoveredText().equals("")&& dadosEnviados.getTotalRecoveredText()!=null) {
+        if (dadosEnviados.getTotalRecoveredText() != null && !dadosEnviados.getTotalRecoveredText().equals("")) {
             tvRecuperadosTotais.setText("Recuperados totais:\n" + dadosEnviados.getTotalRecoveredText());
         } else {
             binding.textviewSecondRecuperadosTotais.setVisibility(View.GONE);
         }
     }
-
-    public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
-        super.onViewCreated(view, savedInstanceState);
-
-        binding.buttonSecond.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                NavHostFragment.findNavController(SecondFragment.this)
-                        .navigate(R.id.action_SecondFragment_to_FirstFragment);
-            }
-        });
-    }
-
 
     @Override
     public void onDestroyView() {
